@@ -11,4 +11,5 @@ public class HospitalInfo {
     private double x;
     private double y;
     private String placeUrl;
+    private String openingHours;
 }
